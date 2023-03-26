@@ -15,7 +15,7 @@ Picture of running game
 </br>
 </br>
 
-<img wigth="30%" src="https://user-images.githubusercontent.com/128290100/227766162-16da7efa-3e77-4979-9332-27506fe8d700.png">
+<img width="30%" src="https://user-images.githubusercontent.com/128290100/227766162-16da7efa-3e77-4979-9332-27506fe8d700.png">
 picture when you lose the game
 </br>
 </br>
